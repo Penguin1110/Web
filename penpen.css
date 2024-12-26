@@ -1,4 +1,4 @@
-/* 全局樣式 */
+
 body {
   font-family: 'Arial', sans-serif;
   font-size: 1.1em;
@@ -21,13 +21,13 @@ body {
   margin: 20px auto;
 }
 
-/* 標題樣式 */
+
 h1, h2 {
   font-family: 'Georgia', serif;
   font-size: 2em;
   margin-bottom: 20px;
   color: #4e342e;
-  text-align: center; /* 標題置中 */
+  text-align: center;
 }
 
 /* 通用按鈕樣式 */
@@ -74,8 +74,8 @@ button:hover, .reference-button:hover {
   margin-bottom: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   line-height: 1.8;
-  width: 90%; /* 調整寬度為 90% */
-  max-width: 900px; /* 最大寬度設為 900px，適配不同螢幕 */
+  width: 90%; 
+  max-width: 900px; 
 }
 
 /* 額外樣式的區塊 */
